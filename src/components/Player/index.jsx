@@ -20,7 +20,7 @@ const Player = ({ initialName, symbol }) => {
             required
           />
         ) : (
-          <span className="player-name">{name}</span>
+          <span className="player-name">{playerName}</span>
         )}
 
         <span className="player-symbol">{symbol}</span>

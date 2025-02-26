@@ -25,5 +25,5 @@ A **Tic-Tac-Toe game** built with React, focusing on core React concepts such as
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/AqibNiazi/tic-tac-toe-react.git
+git clone (https://github.com/AqibNiazi/tic_tac_toe).git
 cd tic-tac-toe-react

@@ -36,8 +36,8 @@ npm install
 
 ### 3️⃣ Start the development server
 ```sh
-npm start
+npm run dev
 ```
 
 ## 📂 Attachments
-![Project Dashboard](https://github.com/AqibNiazi/tic_tac_toe/blob/main/screenshot/home-page.png)
+![Project Dashboard](https://github.com/AqibNiazi/tic_tac_toe/blob/main/public/home-page.png)

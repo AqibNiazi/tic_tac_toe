@@ -40,4 +40,4 @@ npm start
 ```
 
 ## 📂 Attachments
-(Add any relevant screenshots, GIFs, or other media files here)
+![Project Dashboard](https://github.com/AqibNiazi/tic_tac_toe/blob/main/screenshot/home-page.png)
